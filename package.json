@@ -18,7 +18,8 @@
     "vite": "^5.0.8"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "lint": "^0.8.19"
   },
   "release-it": {
     "$schema": "https://unpkg.com/release-it/schema/release-it.json",
